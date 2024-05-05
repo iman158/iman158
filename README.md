@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Inline&pause=1000&color=F72709&random=false&width=600&lines=Hi%2C+This+is+Iman+!;A+Computer+Enthusiast+turned+Cyber+Degenerate;I+like+to+Game+and+Hack%3A-%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Inline&duration=2000&pause=1000&color=F72709&random=false&width=600&lines=Hi%2C+This+is+Iman+!;A+Computer+Enthusiast+turned+Cyber+Degenerate;I+like+to+Game+and+Hack%3A-%7D)](https://git.io/typing-svg)
 
 
 💬 **Me**: An offensive security enthusiast focusing on offensive development,reverse engineering, malware development and red teaming.
