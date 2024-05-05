@@ -22,5 +22,9 @@ I know some people hate certifications, and this list seems like I'm trying to c
     <img src="https://skillicons.dev/icons?i=git,react,visualstudio,vscode,vite,arduino,arch,linux,c,cs,cpp,python,css,html,idea,powershell,raspberrypi,unreal,vercel,windows&perline=5&theme=dark" />
   </a>
 </p>
-
 <br></br>
+<tr>
+    <td width="50%"><a href="https:singhiman.vercel.app&src=typed_query"><img width="100%" src=""></a><br><sup><strong></sup>
+   
+  </tr>
+  <tr>
