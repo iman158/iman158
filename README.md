@@ -10,7 +10,7 @@ i am currently working on having basic certifications to prove my skills.
 <br></br>
 I know some people hate certifications, and this list seems like I'm trying to collect them like Pokemon. Well, yeah. I am. :raised_hands:
 <br></br>
-**In Progress:** Currently i am studing in undergrad and working on binary exploitation in games and reverse engineering software patches.:artificial_satellite:
+**In Progress:** Currently i am studing in undergrad and working on binary exploitation in games and reverse engineering software patches. :artificial_satellite:
 
 
 ## `👨‍💻` DEVELOPMENT
