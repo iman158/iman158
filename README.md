@@ -23,8 +23,3 @@ I know some people hate certifications, and this list seems like I'm trying to c
   </a>
 </p>
 <br></br>
-<tr>
-    <td width="50%"><a href="https://singhiman.vercel.app"><img width="100%" src="screen-captureonline-video-cutter.com-ezgif.com-video-to-gif-converter.gif"></a><br><sup><strong></sup>
-   
-  </tr>
-  <tr>
