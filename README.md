@@ -6,7 +6,7 @@
 
 I am currently working on obtaining basic certifications to back up my skills.
 
-:sparkles:**Certifications in progress:** OSCP
+:sparkles:**Certifications in progress:** SEC+
 <br></br>
 :point_right:One day : eJPT,eCPPT,eCPTX and much more
 <br></br>
